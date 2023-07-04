@@ -1,0 +1,57 @@
+.container .jumbotron 
+{
+    background:red;
+    color:White;
+}
+
+h1 
+{
+    color:white;
+    background:red;
+    text-align:center;
+}
+
+#specialp 
+{
+    color:yellow;
+    text-align:center;
+    font-size:45px;
+}
+.container 
+{
+    margin-top:200px;
+    text-align:center;
+}
+
+.jumbotron a 
+{
+    background:yellow;
+    color:red;
+    border:2px solid green;
+}
+
+body 
+{
+    background:url("https://images.unsplash.com/photo-1655577219600-d471876ae1c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+img 
+{
+    margin:1.5%;
+    float:left;
+    border:2px solid red;
+}
+table,thead,th,tr,td 
+{
+    color:yellow;
+    border:2px solid white;
+    font-size:20px;
+    margin:auto;
+    background:red;
+}
+th,td 
+{
+    padding:5px;
+}
